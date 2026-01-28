@@ -1,0 +1,21 @@
+# CSV files
+*.csv
+
+# Output directories
+/out/
+/out_new/
+/results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
